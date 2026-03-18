@@ -3,10 +3,10 @@
 ## Team: Vision Vortex
 
 ### 👥 Team Members
-- Chandana A J
 - Manasa K B
-- Indu G
 - Nandini
+- Chandana A J
+- Indu G
 
 ## 📌 Problem
 IoT devices lack continuous monitoring and existing systems fail to detect behavioral drift.
