@@ -21,8 +21,3 @@ Our system analyzes IoT behavior and assigns a dynamic trust score to detect ano
 - Explainable Results
 - Agent-less System
 
-## 📊 Presentation
-(PPT uploaded in this repository)
-
-## 🎥 Demo Video
-Coming soon...
