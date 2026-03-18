@@ -1,2 +1,28 @@
-# ECLIPSE-IOT-Trust-Scoring
-Dynamic Trust Scoring for Secure IoT Networks
+# Dynamic Trust Scoring for Secure IoT Networks
+
+## Team: Vision Vortex
+
+### 👥 Team Members
+- Chandana A J
+- Manasa K B
+- Indu G
+- Nandini
+
+## 📌 Problem
+IoT devices lack continuous monitoring and existing systems fail to detect behavioral drift.
+
+## 💡 Solution
+Our system analyzes IoT behavior and assigns a dynamic trust score to detect anomalies and drift.
+
+## ⚙️ Features
+- Dynamic Trust Score (0–100)
+- Drift Detection
+- Low False Positives
+- Explainable Results
+- Agent-less System
+
+## 📊 Presentation
+(PPT uploaded in this repository)
+
+## 🎥 Demo Video
+Coming soon...
