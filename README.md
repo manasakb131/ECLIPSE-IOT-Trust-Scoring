@@ -95,7 +95,7 @@ This project presents a **behavior-based IoT security system** that continuously
 
 ## 🎥 Demo Video
 
-🚧 Demo video will be uploaded soon
+https://youtu.be/Y__4CPjHjt0?si=PDyM6hT0L8bJq-oz
 
 ---
 
@@ -130,9 +130,6 @@ ECLIPSE-IOT/
 * Automated threat response system
 
 ---
-## 🎬 Demo Video
-
-Watch the full demo here:https://youtu.be/Y__4CPjHjt0?si=PDyM6hT0L8bJq-oz
 ## 👥 Team Vision Vortex
 
 * Chandana A J
